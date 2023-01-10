@@ -43,4 +43,4 @@ Puede pensar en la lista como el canal principal para promocionar sus productos 
 
 ## Comparacion sistema economico latinoamericano y del caribe SELLA
 
-![Estadistica-brasil](Images/Mercosur.jpg)
+![Estadistica-brasil](Images/Mercosur.JPG)
