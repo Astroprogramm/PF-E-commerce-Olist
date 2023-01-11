@@ -9,7 +9,7 @@ El sector del comercio electrónico ha sido uno de los más disruptores de los �
 ## Olist
 Ayuda a los vendedores a encontrar a los compradores
 
-## ¿Qué es olist exactamente?
+## ¿Que es olist exactamente?
 
 (LAolist as a Service) fundada en 2015 que ofrece una solución para aumentar las ventas para minoristas de todos los tamaños, para la mayoría de los segmentos, ya sea que tengan presencia en línea o no.
 
@@ -38,6 +38,7 @@ No. LA , como tienda por departamentos que cuenta con espacios privilegiados en 
 Puede pensar en la lista como el canal principal para promocionar sus productos en los mercados. Nuestro propósito es simplificar el proceso y ayudarte a vender cada vez más
 
 ![Estadistica-brasil](Images/situacionDigital.JPG)
+
 Autor. Branch
 
 ## Dispositivos que mas utilizan los usuarios de internet
