@@ -37,7 +37,7 @@ No. LA , como tienda por departamentos que cuenta con espacios privilegiados en 
 
 Puede pensar en la lista como el canal principal para promocionar sus productos en los mercados. Nuestro propósito es simplificar el proceso y ayudarte a vender cada vez más
 
-![Estadistica-brasil](Images/Estadisticas-de-la-situacion-Digital.JPG)
+![Estadistica-brasil](Images/situacionDigital.JPG)
 Autor. Branch
 
 ## Dispositivos que mas utilizan los usuarios de internet
@@ -95,5 +95,6 @@ El mercado de videojuegos en Brasil mostró un crecimiento en ventas superior al
 
 ## Principales tiendas en línea del mercado de comercio electronico en brasil por ventas netas de comercio electronico 2021
 ![Estadistica-brasil](Images/Principales_tiendas.JPG)
+
 Autor. M4rketing Ecomerce
 
