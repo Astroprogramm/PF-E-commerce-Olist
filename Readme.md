@@ -1,3 +1,5 @@
+# Analisis descriptivo
+
 # E-commerce ¿Que es?
 El e-commerce o comercio electrónico es la práctica de comprar y vender productos a través de internet. También se llama "ecommerce" a cada tienda online que se dedica a este negocio.
 
@@ -35,15 +37,23 @@ No. LA , como tienda por departamentos que cuenta con espacios privilegiados en 
 
 Puede pensar en la lista como el canal principal para promocionar sus productos en los mercados. Nuestro propósito es simplificar el proceso y ayudarte a vender cada vez más
 
-![Estadistica-brasil](Images/Estadisticas-de-la-situacion-Digital.jpg)
+![Estadistica-brasil](Images/Estadisticas-de-la-situacion-Digital.JPG)
+Autor. Branch
 
+## Dispositivos que mas utilizan los usuarios de internet
+
+
+![Estadistica-brasil](Images/Dispositivos.JPG)
+Autor. Branch
 
 ## Ciudades con la mayor cantidad de habitantes en Brasil en 2021
 ![Estadistica-brasil](Images/Ciudades_pobladas_brazil.png)
+Autor. Statista
 
-## Comparacion sistema economico latinoamericano y del caribe SELA
+## Comparacion sistema economico latinoamericano y del caribe 
 
 ![Estadistica-brasil](Images/Mercosur.JPG)
+Autor.SELA
 
 ## Reporte Americas Market Intelligence
 
@@ -72,3 +82,18 @@ Según la Asociación Nacional de la Distribución de Autos en Brasil (FENABRAVE
 
 ## 6 Videojuegos
 El mercado de videojuegos en Brasil mostró un crecimiento en ventas superior al 5 % en 2021, con ingresos cercanos a los US$ 2 mil millones, según datos compartidos por PagBrasil. Para 2022, se espera que el mercado de videojuegos en Brasil aumente sus ventas en un 5,3 %. Brasil, por cierto, sigue líderando el mercado de videojuegos en América Latina. Se estima que el 70 % de la población brasileña juega videojuegos, según lo reportado por PagBrasil.
+
+## Principales razones por las que el consumidor brasileño compra en linea:
+
+1.El 73% de los clientes no quiere salir de casa.
+
+2.El 52% prefiere las promociones especiales como envío gratis, descuento, muestras y programa de fidelización.
+
+3.El 47% valora el tiempo ahorrado.
+
+4.El 38% toma en consideración los plazos de entrega de los pedidos.
+
+## Principales tiendas en línea del mercado de comercio electronico en brasil por ventas netas de comercio electronico 2021
+![Estadistica-brasil](Images/Principales_tiendas.JPG)
+Autor. M4rketing Ecomerce
+
