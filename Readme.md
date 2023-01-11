@@ -99,3 +99,36 @@ El mercado de videojuegos en Brasil mostró un crecimiento en ventas superior al
 
 Autor. M4rketing Ecomerce
 
+## Inteligencia de negocios 
+
+## Sesgos cognitivos que te ayudan a vender más y mejor
+
+## ¿Que son los sesgos cognitivos?
+Un sesgo cognitivo no es más que un error sistemático en nuestro cerebro que nos lleva a emitir juicios “a favor” o “en contra de” con los que podemos sacar conclusiones incorrectas.
+
+Estamos constantemente inspeccionando nuestro entorno en busca de información que nos sea relevante para nuestra sobrevivencia. Los sesgos cognitivos son el resultado de que nuestro cerebro simplifique y procese la información.
+
+## ¿Como influyen los sesgos cognitivos en el marketing digital?
+
+Seguramente, piensa que toma decisiones lógicas y se convences de que has elegido la mejor opción después de comprar un producto o contratar un servicio. Siento decepcionarte, pero esto no es así.
+
+No somos racionales cuando tomamos decisiones y, la gran mayoría, ni siquiera las pensamos. Lo cierto es que elegimos la opción que nos ponen delante: aquella que nos quieren vender.
+
+## 1. Sesgo cognitivo de la aversión a la pérdida
+La aversión a la pérdida es un elemento central de la teoría prospectiva, dentro de la economía conductual y el marketing. Tenemos tanto miedo a perder que tendemos a pensar en minimizar riesgos para evitar perder, incluso si esto nos supone también perder la oportunidad de ganar algo.
+
+## 2. Sesgo cognitivo del efecto anclaje
+El efecto anclaje es un prejuicio cognitivo y se refiere a aquella primera información que nos dan o tenemos sobre algo cuando vamos a tomar una decisión. Este dato funciona como punto de partida sobre el cual gira todo lo que suceda después. Este sesgo se utiliza mucho en el marketing y las ventas. Nos guiamos por el primer precio que vemos con la intención de que todo lo que nos presenten a partir de ahí, nos parezca aceptable.
+
+## 3. Sesgo cognitivo del efecto señuelo
+El efecto señuelo es una estrategia de fijación de precios que condiciona a los consumidores en la toma de sus decisiones a la hora de comprar o contratar un servicio.
+
+Aún así, para que este sesgo cognitivo sea efectivo mínimo tiene que haber dos opciones más el señuelo porque, cuando se nos presenta una tercera opción, tendemos a cambiar nuestras preferencias. Al añadir un señuelo entre el resto de opciones, pensamos que la otra opción (que ni siquiera nos llama la atención) es mejor. De hecho, a este fenómeno, en marketing, también se le llama efecto de dominio asimétrico.
+
+## 4. Sesgo cognitivo de la confirmación
+Según la psicología cognitiva, el sesgo de confirmación es la tendencia a buscar, interpretar y recordar aquella información que apoya y reafirma nuestras creencias, expectativas u opiniones para no poner en peligro nuestra identidad y, por tanto, entrar en conflicto con nosotros mismos. Lo que es lo mismo: Vemos y oímos lo que resuena con nosotros, y cuánto más fuerte sea la emoción, más fuerza tendrá este sesgo. Ahora te pongo varios ejemplos para que lo entiendas mejor.
+
+## 5. Sesgo cognitivo de la pertenencia
+Siempre hemos querido formar parte de un grupo. Nos sentimos seguros y valorados cuando nos juntamos con gente que se parecen a nosotros. Es más, ¿nunca has hecho algo de lo que te has arrepentido después solo por ser uno más?
+
+Una marca, por su parte, tiene una comunidad detrás y, por eso, debe cuidarla en un mismo círculo para conectar emocionalmente. En marketing, a día de hoy se habla de emociones, conectar y de muchos otros conceptos que están en la calle y debemos tener en cuenta a la hora de idear nuestras estrategias. Y si una marca consigue que sus potenciales clientes tengan ese sentido de pertenencia, tendrán mucho ganado. Porque, gracias a este sesgo cognitivo, consigues fidelizar a tu audiencia.
