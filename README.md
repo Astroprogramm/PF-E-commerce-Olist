@@ -1,6 +1,6 @@
 # E-commerce Olist, Group project at Henry
 
-![alt text](/run/user/1000/doc/c1c08b55/thought-catalog-Nv-vx3kUR2A-unsplash.jpg)
+![Head image](https://images.unsplash.com/photo-1524508762098-fd966ffb6ef9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80)
 
 **PROJECT SUMMARY**
 
