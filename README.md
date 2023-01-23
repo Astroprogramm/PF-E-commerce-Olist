@@ -1,10 +1,15 @@
 # E-commerce Olist, Group project at Henry
+<div align="center">
 
 ![Head image](https://images.unsplash.com/photo-1524508762098-fd966ffb6ef9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80)
+</div>
 
 ### **PROJECT SUMMARY**
 
 *Developed at Henry.*
+
+<div align="center">
+
 
 | Team member     | GitHub                                                                    |
 |:---------------:|:-------------------------------------------------------------------------:|
@@ -14,7 +19,9 @@
 | Sonia Gonzáles  | [@slgonzalezp](https://github.com/slgonzalezp)                            |
 | Angela Aguirre  | [@Astroprogramm](https://github.com/Astroprogramm)                        |
 
-</center>
+</div>
+
+
 
 ### Context:
 
@@ -38,17 +45,29 @@ To achieve this, it makes its data available from 2016 to 2018 so they must deli
 
 ### Tech stack:
 
-1. Python  
+1. Python
 
-2. PyMySQL
+2. PyMySQL 
 
 3. SQLAlchemy
 
-4. Google Cloud Storage
+4. MySQL
 
-5. MySQL
+5. Google Cloud Storage
 
 6. Airflow
+
+<div id="header" align="center">
+
+ <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="60" height="60"/>&nbsp;
+ <img src="https://pythonfix.com/pkg/p/pymysql/pymysql-banner.webp" title="PyMySQL" alt="PyMySQL" width="90" height="50"/>&nbsp;
+ <img src="https://quintagroup.com/cms/python/images/sqlalchemy-logo.png/@@images/eca35254-a2db-47a8-850b-2678f7f8bc09.png" title="SQLAlchemy" alt="SQLAlchemy" width="100" height="40"/>&nbsp;
+ <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.png" alt="Google Cloud" width="80" height="50"/>&nbsp;
+ <img src="https://airflow.apache.org/images/feature-image.png" title="Airflow" alt="Airflow" width="90" height="50"/>&nbsp;
+  
+</div> 
+
 
 ## <mark>Disclaimer</mark>
 
@@ -92,6 +111,17 @@ Para lograrlo, nos disponibiliza sus datos de 2016 a 2018, con lo que debemos en
 5. MySQL
 
 6. Airflow
+
+<div id="header" align="center">
+
+ <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="60" height="60"/>&nbsp;
+ <img src="https://pythonfix.com/pkg/p/pymysql/pymysql-banner.webp" title="PyMySQL" alt="PyMySQL" width="90" height="50"/>&nbsp;
+ <img src="https://quintagroup.com/cms/python/images/sqlalchemy-logo.png/@@images/eca35254-a2db-47a8-850b-2678f7f8bc09.png" title="SQLAlchemy" alt="SQLAlchemy" width="100" height="40"/>&nbsp;
+ <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.png" alt="Google Cloud" width="80" height="50"/>&nbsp;
+ <img src="https://airflow.apache.org/images/feature-image.png" title="Airflow" alt="Airflow" width="90" height="50"/>&nbsp;
+  
+</div> 
 
 ## <mark>Disclaimer</mark>
 
