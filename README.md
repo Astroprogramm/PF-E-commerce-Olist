@@ -13,7 +13,7 @@
 
 | Team member     | GitHub                                                                    |
 |:---------------:|:-------------------------------------------------------------------------:|
-| Daniel Vallejos | [@odvallejos](https://github.com/odvallejoshttps://github.com/odvallejos) |
+| Daniel Vallejos | [@odvallejos](https://github.com/odvallejos) |
 | Lina Arroyo     | [@Lina-Arroyo](https://github.com/Lina-Arroyo)                            |
 | Luis Madrid     | [@Luismadrid77](https://github.com/Luismadrid77)                          |
 | Sonia Gonzáles  | [@slgonzalezp](https://github.com/slgonzalezp)                            |
