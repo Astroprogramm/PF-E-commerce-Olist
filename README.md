@@ -42,31 +42,27 @@ To achieve this, it makes its data available from 2016 to 2018 so they must deli
 * **Week 2:**
   
   In this week the ETL was performed, the Extraction and Transformation was done with Python, and Load with PyMySQL and SQLAlchemy to a data warehouse located in Google Cloud Storage. Automatization of this process was made with Airflow, and will be finished in week 3.
-
+ 
+* **Week 3:**
+  
+  Different machine learning models were developed to provide information in the areas of sales and user feedback. Likewise, dashboards with analytics on the provided data and KPIs were created.
+  
 ### Tech stack:
 
-1. Python
 
-2. PyMySQL 
+| |Technology|Logo|
+|:---:|:---------------:|:-------------------------------------------------------------------------:|
+|1.|Python| <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;                            |
+|2.| PyMySQL|   <img src="https://pythonfix.com/pkg/p/pymysql/pymysql-banner.webp" title="PyMySQL" alt="PyMySQL" width="90" height="50"/>&nbsp;|
+|3.| SQLAlchemy|  <img src="https://quintagroup.com/cms/python/images/sqlalchemy-logo.png/@@images/eca35254-a2db-47a8-850b-2678f7f8bc09.png" title="SQLAlchemy" alt="SQLAlchemy" width="130" height="40"/>&nbsp;|
+|4.| MySQL| <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="60" height="60"/>&nbsp;|
+|5.| Google Cloud Storage| <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.png" alt="Google Cloud" width="90" height="50"/>&nbsp;|
+|6.|Airflow| <img src="https://airflow.apache.org/images/feature-image.png" title="Airflow" alt="Airflow" width="105" height="50"/>&nbsp;|
+|7.|Sklearn| <img src="https://github.com/scikit-learn/scikit-learn/blob/main/doc/logos/scikit-learn-logo-thumb.png" title="Sklearn" alt="Sklearn" width="90" height="60"/>&nbsp;|
+|8.|Nltk| <img src="https://miro.medium.com/max/592/1*YM2HXc7f4v02pZBEO8h-qw.png" title="Nltk" alt="Nltk" width="50" height="60"/>&nbsp;|
+|9.|PowerBI| <img src="https://seeklogo.com/images/P/power-bi-microsoft-logo-E4FC8DE4A9-seeklogo.com.png" title="PowerBI" alt="PowerBI" width="100" height="60"/>&nbsp;|
+|10.|Streamlit| <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" title="Streamlit" alt="Streamlit" width="90" height="60"/>&nbsp;|
 
-3. SQLAlchemy
-
-4. MySQL
-
-5. Google Cloud Storage
-
-6. Airflow
-
-<div id="header" align="center">
-
- <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="60" height="60"/>&nbsp;
- <img src="https://pythonfix.com/pkg/p/pymysql/pymysql-banner.webp" title="PyMySQL" alt="PyMySQL" width="90" height="50"/>&nbsp;
- <img src="https://quintagroup.com/cms/python/images/sqlalchemy-logo.png/@@images/eca35254-a2db-47a8-850b-2678f7f8bc09.png" title="SQLAlchemy" alt="SQLAlchemy" width="100" height="40"/>&nbsp;
- <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.png" alt="Google Cloud" width="80" height="50"/>&nbsp;
- <img src="https://airflow.apache.org/images/feature-image.png" title="Airflow" alt="Airflow" width="90" height="50"/>&nbsp;
-  
-</div> 
 
 
 ## <mark>Disclaimer</mark>
@@ -90,38 +86,33 @@ Olist es una compañía brasileña prestadora de servicio e-commerce para PYME
 Con el objetivo primordial de seguir conectando a pequeñas empresas (PYMES) con mercados más grandes y mejorar la experiencia del usuario, Olist nos ha contratado como consultores externos para encontrar soluciones innovadores que permitan a sus usuarios vender los productos a un mayor número de clientes.  
 Para lograrlo, nos disponibiliza sus datos de 2016 a 2018, con lo que debemos entregar un MVP *(minimum viable product)*.
 
-- **Semana 1:**
+* **Semana 1:**
   
   Comenzamos a trabajar en este proyecto asignando roles a cada participante del equipo y desde allí se hizo una revisión de la calidad de los conjuntos de datos dados, a través de una EDA. Luego hicimos un diccionario de datos, un análisis preliminar del mercado y de la empresa Olist, además de definir KPIs para lograr con el proyecto.
 
-- **Semana 2:**
+* **Semana 2:**
   
   En esta semana se realizó el ETL, la Extracción y Transformación con Python, la Carga con PyMySQL y SQLAlchemy a un Data Warehouse ubicado en Google Cloud Storage.  La automatización de este proceso fue desarrollada con Airflow, y se terminará en la semana 3.
 
+* **Semana 3:**
+  
+  Se desarrollaron diferentes modelos de aprendizaje automático para proporcionar información en las áreas de ventas y retroalimentación de los usuarios. Asimismo, se crearon paneles con análisis de los datos proporcionados y KPIs.
+
 ### Stack tecnológico:
 
-1. Python
+| |Tecnología|Logo|
+|:---:|:---------------:|:-------------------------------------------------------------------------:|
+|1.|Python| <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;                            |
+|2.| PyMySQL|   <img src="https://pythonfix.com/pkg/p/pymysql/pymysql-banner.webp" title="PyMySQL" alt="PyMySQL" width="90" height="50"/>&nbsp;|
+|3.| SQLAlchemy|  <img src="https://quintagroup.com/cms/python/images/sqlalchemy-logo.png/@@images/eca35254-a2db-47a8-850b-2678f7f8bc09.png" title="SQLAlchemy" alt="SQLAlchemy" width="130" height="40"/>&nbsp;|
+|4.| MySQL| <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="60" height="60"/>&nbsp;|
+|5.| Google Cloud Storage| <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.png" alt="Google Cloud" width="90" height="50"/>&nbsp;|
+|6.|Airflow| <img src="https://airflow.apache.org/images/feature-image.png" title="Airflow" alt="Airflow" width="105" height="50"/>&nbsp;|
+|7.|Sklearn| <img src="https://github.com/scikit-learn/scikit-learn/blob/main/doc/logos/scikit-learn-logo-thumb.png" title="Sklearn" alt="Sklearn" width="90" height="60"/>&nbsp;|
+|8.|Nltk| <img src="https://miro.medium.com/max/592/1*YM2HXc7f4v02pZBEO8h-qw.png" title="Nltk" alt="Nltk" width="50" height="60"/>&nbsp;|
+|9.|PowerBI| <img src="https://seeklogo.com/images/P/power-bi-microsoft-logo-E4FC8DE4A9-seeklogo.com.png" title="PowerBI" alt="PowerBI" width="100" height="60"/>&nbsp;|
+|10.|Streamlit| <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" title="Streamlit" alt="Streamlit" width="90" height="60"/>&nbsp;|
 
-2. PyMySQL
-
-3. SQLAlchemy
-
-4. Google Cloud Storage
-
-5. MySQL
-
-6. Airflow
-
-<div id="header" align="center">
-
- <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="60" height="60"/>&nbsp;
- <img src="https://pythonfix.com/pkg/p/pymysql/pymysql-banner.webp" title="PyMySQL" alt="PyMySQL" width="90" height="50"/>&nbsp;
- <img src="https://quintagroup.com/cms/python/images/sqlalchemy-logo.png/@@images/eca35254-a2db-47a8-850b-2678f7f8bc09.png" title="SQLAlchemy" alt="SQLAlchemy" width="100" height="40"/>&nbsp;
- <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.png" alt="Google Cloud" width="80" height="50"/>&nbsp;
- <img src="https://airflow.apache.org/images/feature-image.png" title="Airflow" alt="Airflow" width="90" height="50"/>&nbsp;
-  
-</div> 
 
 ## <mark>Disclaimer</mark>
 
