@@ -7,3 +7,7 @@
 ## Diagrama de actividades
 
 ![use_case_diagram](./Images/Diagrama_actividades.png)
+
+## Diagrama de colaboración
+
+![use_case_diagram](./Images/Diagrama_colaboracion.jpg)
