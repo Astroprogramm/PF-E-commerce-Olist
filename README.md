@@ -42,7 +42,11 @@ To achieve this, it makes its data available from 2016 to 2018 so they must deli
 * **Week 2:**
   
   In this week the ETL was performed, the Extraction and Transformation was done with Python, and Load with PyMySQL and SQLAlchemy to a data warehouse located in Google Cloud Storage. Automatization of this process was made with Airflow, and will be finished in week 3.
-
+ 
+* **Week 3:**
+  
+  Different machine learning models were developed to provide information in the areas of sales and user feedback. Likewise, dashboards with analytics on the provided data and KPIs were created.
+  
 ### Tech stack:
 
 1. Python
@@ -56,6 +60,14 @@ To achieve this, it makes its data available from 2016 to 2018 so they must deli
 5. Google Cloud Storage
 
 6. Airflow
+
+7. Sklearn
+
+8. Nltk
+
+9. PowerBI
+
+10. Streamlit
 
 <div id="header" align="center">
 
@@ -90,13 +102,17 @@ Olist es una compañía brasileña prestadora de servicio e-commerce para PYME
 Con el objetivo primordial de seguir conectando a pequeñas empresas (PYMES) con mercados más grandes y mejorar la experiencia del usuario, Olist nos ha contratado como consultores externos para encontrar soluciones innovadores que permitan a sus usuarios vender los productos a un mayor número de clientes.  
 Para lograrlo, nos disponibiliza sus datos de 2016 a 2018, con lo que debemos entregar un MVP *(minimum viable product)*.
 
-- **Semana 1:**
+* **Semana 1:**
   
   Comenzamos a trabajar en este proyecto asignando roles a cada participante del equipo y desde allí se hizo una revisión de la calidad de los conjuntos de datos dados, a través de una EDA. Luego hicimos un diccionario de datos, un análisis preliminar del mercado y de la empresa Olist, además de definir KPIs para lograr con el proyecto.
 
-- **Semana 2:**
+* **Semana 2:**
   
   En esta semana se realizó el ETL, la Extracción y Transformación con Python, la Carga con PyMySQL y SQLAlchemy a un Data Warehouse ubicado en Google Cloud Storage.  La automatización de este proceso fue desarrollada con Airflow, y se terminará en la semana 3.
+
+* **Semana 3:**
+  
+  Se desarrollaron diferentes modelos de aprendizaje automático para proporcionar información en las áreas de ventas y retroalimentación de los usuarios. Asimismo, se crearon paneles con análisis de los datos proporcionados y KPIs.
 
 ### Stack tecnológico:
 
@@ -111,6 +127,14 @@ Para lograrlo, nos disponibiliza sus datos de 2016 a 2018, con lo que debemos en
 5. MySQL
 
 6. Airflow
+
+7. Sklearn
+
+8. Nltk
+
+9. PowerBI
+
+10. Streamlit
 
 <div id="header" align="center">
 
