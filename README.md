@@ -49,36 +49,20 @@ To achieve this, it makes its data available from 2016 to 2018 so they must deli
   
 ### Tech stack:
 
-1. Python
 
-2. PyMySQL 
+| |Technology|Logo|
+|:---:|:---------------:|:-------------------------------------------------------------------------:|
+|1.|Python| <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;                            |
+|2.| PyMySQL|   <img src="https://pythonfix.com/pkg/p/pymysql/pymysql-banner.webp" title="PyMySQL" alt="PyMySQL" width="90" height="50"/>&nbsp;|
+|3.| SQLAlchemy|  <img src="https://quintagroup.com/cms/python/images/sqlalchemy-logo.png/@@images/eca35254-a2db-47a8-850b-2678f7f8bc09.png" title="SQLAlchemy" alt="SQLAlchemy" width="130" height="40"/>&nbsp;|
+|4.| MySQL| <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="60" height="60"/>&nbsp;|
+|5.| Google Cloud Storage| <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.png" alt="Google Cloud" width="90" height="50"/>&nbsp;|
+|6.|Airflow| <img src="https://airflow.apache.org/images/feature-image.png" title="Airflow" alt="Airflow" width="105" height="50"/>&nbsp;|
+|7.|Sklearn| <img src="https://github.com/scikit-learn/scikit-learn/blob/main/doc/logos/scikit-learn-logo-thumb.png" title="Sklearn" alt="Sklearn" width="90" height="60"/>&nbsp;|
+|8.|Nltk| <img src="https://miro.medium.com/max/592/1*YM2HXc7f4v02pZBEO8h-qw.png" title="Nltk" alt="Nltk" width="50" height="60"/>&nbsp;|
+|9.|PowerBI| <img src="https://seeklogo.com/images/P/power-bi-microsoft-logo-E4FC8DE4A9-seeklogo.com.png" title="PowerBI" alt="PowerBI" width="100" height="60"/>&nbsp;|
+|10.|Streamlit| <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" title="Streamlit" alt="Streamlit" width="90" height="60"/>&nbsp;|
 
-3. SQLAlchemy
-
-4. MySQL
-
-5. Google Cloud Storage
-
-6. Airflow
-
-7. Sklearn
-
-8. Nltk
-
-9. PowerBI
-
-10. Streamlit
-
-<div id="header" align="center">
-
- <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="60" height="60"/>&nbsp;
- <img src="https://pythonfix.com/pkg/p/pymysql/pymysql-banner.webp" title="PyMySQL" alt="PyMySQL" width="90" height="50"/>&nbsp;
- <img src="https://quintagroup.com/cms/python/images/sqlalchemy-logo.png/@@images/eca35254-a2db-47a8-850b-2678f7f8bc09.png" title="SQLAlchemy" alt="SQLAlchemy" width="100" height="40"/>&nbsp;
- <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.png" alt="Google Cloud" width="80" height="50"/>&nbsp;
- <img src="https://airflow.apache.org/images/feature-image.png" title="Airflow" alt="Airflow" width="90" height="50"/>&nbsp;
-  
-</div> 
 
 
 ## <mark>Disclaimer</mark>
@@ -116,36 +100,19 @@ Para lograrlo, nos disponibiliza sus datos de 2016 a 2018, con lo que debemos en
 
 ### Stack tecnológico:
 
-1. Python
+| |Tecnología|Logo|
+|:---:|:---------------:|:-------------------------------------------------------------------------:|
+|1.|Python| <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;                            |
+|2.| PyMySQL|   <img src="https://pythonfix.com/pkg/p/pymysql/pymysql-banner.webp" title="PyMySQL" alt="PyMySQL" width="90" height="50"/>&nbsp;|
+|3.| SQLAlchemy|  <img src="https://quintagroup.com/cms/python/images/sqlalchemy-logo.png/@@images/eca35254-a2db-47a8-850b-2678f7f8bc09.png" title="SQLAlchemy" alt="SQLAlchemy" width="130" height="40"/>&nbsp;|
+|4.| MySQL| <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="60" height="60"/>&nbsp;|
+|5.| Google Cloud Storage| <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.png" alt="Google Cloud" width="90" height="50"/>&nbsp;|
+|6.|Airflow| <img src="https://airflow.apache.org/images/feature-image.png" title="Airflow" alt="Airflow" width="105" height="50"/>&nbsp;|
+|7.|Sklearn| <img src="https://github.com/scikit-learn/scikit-learn/blob/main/doc/logos/scikit-learn-logo-thumb.png" title="Sklearn" alt="Sklearn" width="90" height="60"/>&nbsp;|
+|8.|Nltk| <img src="https://miro.medium.com/max/592/1*YM2HXc7f4v02pZBEO8h-qw.png" title="Nltk" alt="Nltk" width="50" height="60"/>&nbsp;|
+|9.|PowerBI| <img src="https://seeklogo.com/images/P/power-bi-microsoft-logo-E4FC8DE4A9-seeklogo.com.png" title="PowerBI" alt="PowerBI" width="100" height="60"/>&nbsp;|
+|10.|Streamlit| <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" title="Streamlit" alt="Streamlit" width="90" height="60"/>&nbsp;|
 
-2. PyMySQL
-
-3. SQLAlchemy
-
-4. Google Cloud Storage
-
-5. MySQL
-
-6. Airflow
-
-7. Sklearn
-
-8. Nltk
-
-9. PowerBI
-
-10. Streamlit
-
-<div id="header" align="center">
-
- <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="60" height="60"/>&nbsp;
- <img src="https://pythonfix.com/pkg/p/pymysql/pymysql-banner.webp" title="PyMySQL" alt="PyMySQL" width="90" height="50"/>&nbsp;
- <img src="https://quintagroup.com/cms/python/images/sqlalchemy-logo.png/@@images/eca35254-a2db-47a8-850b-2678f7f8bc09.png" title="SQLAlchemy" alt="SQLAlchemy" width="100" height="40"/>&nbsp;
- <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.png" alt="Google Cloud" width="80" height="50"/>&nbsp;
- <img src="https://airflow.apache.org/images/feature-image.png" title="Airflow" alt="Airflow" width="90" height="50"/>&nbsp;
-  
-</div> 
 
 ## <mark>Disclaimer</mark>
 
