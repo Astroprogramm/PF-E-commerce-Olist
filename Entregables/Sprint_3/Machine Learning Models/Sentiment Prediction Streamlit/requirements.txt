@@ -1,6 +1,6 @@
-pip install sklearn
-pip install wordcloud
-pip install -U nltk
-pip install -U scikit-learn
-pip install seaborn
-pip install -U imbalanced-learn
+sklearn
+wordcloud
+nltk
+scikit-learn
+seaborn
+imbalanced-learn
