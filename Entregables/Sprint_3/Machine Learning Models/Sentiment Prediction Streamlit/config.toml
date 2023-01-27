@@ -1,0 +1,5 @@
+[theme]
+primaryColor="#16F1AC"
+backgroundColor = '#000000'
+st.set_option('deprecation.showPyplotGlobalUse', False)
+
