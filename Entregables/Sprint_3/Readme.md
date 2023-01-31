@@ -2,10 +2,9 @@
 
 Informe KPI
 
-
-<iframe width="600" height = "420"
-src="https://www.youtube.com/embed/zC_DsauVGls">
-</iframe>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=zC_DsauVGls
+" target="_blank"><img src="http://img.youtube.com/vi/zC_DsauVGls/0.jpg" 
+alt="Informe KPI" width="240" height="180" border="10" /></a>
 
 
 ![1KPI](./Images/1KPI_1.JPG)
