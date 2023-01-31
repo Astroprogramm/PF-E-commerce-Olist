@@ -1,5 +1,12 @@
 # Dashboards KPIs Olist
 
+Informe KPI
+
+<iframe width="600" height = "420"
+src="https://youtu.be/zC_DsauVGls">
+</iframe>
+
+
 ![1KPI](./Images/1KPI_1.JPG)
 
 ![2KPI](./Images/2KPI.JPG)
