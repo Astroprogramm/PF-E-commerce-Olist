@@ -46,7 +46,10 @@ To achieve this, it makes its data available from 2016 to 2018 so they must deli
 * **Week 3:**
   
   Different machine learning models were developed to provide information in the areas of sales and user feedback. Likewise, dashboards with analytics on the provided data and KPIs were created.
-  
+
+* **Week 4:**
+  This week some aspects of the dashboard were modified and prediction models were perfected. 
+
 ### Tech stack:
 
 
@@ -227,16 +230,27 @@ In addition, we present this preliminary data DER:
   * Reduce product delivery time.
   * Use the sentiment analysis model in reviews messages to identify negative words and address those situations.
 
-Implement Marketing Strategies in other languages: English and French
+* **Implement Marketing Strategies in other languages:** English and French
 
 
 
 **SECOND WEEK:**
 
+To continue with the next phase of the project we started with an ETL process where null values were imputed with a function, data types were changed in the columns; Once these data were cleaned, a division of these data was made with train test split where 70% of the data were used as initial load and 30% as incremental load; the creation of the data warehouse was performed which was automated with triggers (triggers) which insert the new records into an audit table that is used to validate the correct insertions of these data into the tables. Finally, as final steps, incremental loading was performed in the data warehouse which was already in the cloud and an automation of the entire ETL process was performed with Airflow through a docker environment locally.
 
 ![ETL process](https://github.com/Astroprogramm/PF-E-commerce-Olist/blob/master/ETL/ETL_Process.png)
 ![DER](https://github.com/Astroprogramm/PF-E-commerce-Olist/blob/master/Entregables/Sprint_2/DERFinal.png)
 
+**THIRD WEEK**
+
+To conclude the last phases of the project we started with the construction of dashboards on which we support our objective and the KPIs. Three prediction models were made that support the project’s objective, which are:
+
+* Model of analysis of feelings in the messages of reviews which is automated with Streamlit, this model helps us to identify the feeling of customers with purchases at the time they make a review
+* Future sales prediction model with this model predict the monthly future sales that Olist may have, this model is implemented to set goals in the company’s sales.
+* Product recommendation model, which based on the product purchased by the customer preselects products of the same category that the customer may be interested in
+
+**FOURTH WEEK**
+This week some aspects of the dashboard were modified and prediction models were perfected. 
 
 
 ## <mark>Disclaimer</mark>
@@ -428,10 +442,21 @@ Además, presentamos este DER preliminar de los datos:
 
 **SEGUNDA SEMANA:**
 
+Para continuar con la fase siguiente del proyecto iniciamos con un proceso de ETL donde se imputaron valores nulos con una función, se cambiaron los de tipos de datos en las columnas; una vez limpios estos datos se realizó una división de estos mismos con train test split donde el 70% de los datos se usaron como carga inicial y el 30% como carga incremental; se realizó la creación del data warehouse el cual se automatizó con triggers (disparadores) que insertan los nuevos registros en una tabla de auditoría que se usa para validar las correctas inserciones de estos datos en las tablas. Por último como pasos finales se realizó la carga incremental en el data warehouse el cual ya se encontraba en la nube y se realizó con Airflow mediante un entorno docker una automatización de todo el proceso de ETL realizado localmente.
+
 ![ETL process](https://github.com/Astroprogramm/PF-E-commerce-Olist/blob/master/ETL/ETL_Process.png)
 ![DER](https://github.com/Astroprogramm/PF-E-commerce-Olist/blob/master/Entregables/Sprint_2/DERFinal.png)
 
+**SEMANA TRES**
 
+Para concluir las últimas fases del proyecto iniciamos con la construcción de dashboards en los cuales sustentamos nuestro objetivo y los KPI’s planteados. Se realizaron tres modelos de predicción que sustentan el objetivo del proyecto, los cuales son:
+
+* Modelo de análisis de sentimientos en los mensajes de reviews el cual está automatizado con Streamlit, este modelo nos ayuda a identificar el sentimiento de los clientes con las compras en el momento que realizan un review
+* Modelo de predicción de ventas futuras con este modelo se predicen las ventas futuras mensuales que puede tener Olist, este modelo se implementa para trazar metas en las ventas de la compañía.
+* Modelo de recomendación de productos, el cual en base al producto comprado por el cliente le preselecciona productos de la misma categoría que al cliente le puedan interesar
+
+**CUARTA SEMANA**
+En esta semana se modificaron algunos aspectos del dashboard y se perfeccionaron los modelos de predicción. 
 
 ### <div align="center">  RECOMENDACIONES </div >
 
@@ -456,7 +481,7 @@ Además, presentamos este DER preliminar de los datos:
   * Disminuir el tiempo de entrega de productos.
   * Utilizar el modelo de análisis de sentimientos en los mensajes reviews para identificar las palabras negativas y atender esas situaciones.
 
-Implementar Estrategias de Marketing en otros idiomas: Inglés y Francés
+* **Implementar Estrategias de Marketing en otros idiomas:** Inglés y Francés
 
 
 
