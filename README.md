@@ -249,6 +249,8 @@ To conclude the last phases of the project we started with the construction of d
 * Future sales prediction model with this model predict the monthly future sales that Olist may have, this model is implemented to set goals in the company’s sales.
 * Product recommendation model, which based on the product purchased by the customer preselects products of the same category that the customer may be interested in
 
+![](https://github.com/Astroprogramm/PF-E-commerce-Olist/blob/master/Entregables/Sprint_3/Machine_Learning_Models/Sentiment_Prediction_Streamlit/ML_Sentiment_Deployment_Streamlit.gif)
+
 **FOURTH WEEK**
 This week some aspects of the dashboard were modified and prediction models were perfected. 
 
@@ -454,6 +456,8 @@ Para concluir las últimas fases del proyecto iniciamos con la construcción de 
 * Modelo de análisis de sentimientos en los mensajes de reviews el cual está automatizado con Streamlit, este modelo nos ayuda a identificar el sentimiento de los clientes con las compras en el momento que realizan un review
 * Modelo de predicción de ventas futuras con este modelo se predicen las ventas futuras mensuales que puede tener Olist, este modelo se implementa para trazar metas en las ventas de la compañía.
 * Modelo de recomendación de productos, el cual en base al producto comprado por el cliente le preselecciona productos de la misma categoría que al cliente le puedan interesar
+
+![](https://github.com/Astroprogramm/PF-E-commerce-Olist/blob/master/Entregables/Sprint_3/Machine_Learning_Models/Sentiment_Prediction_Streamlit/ML_Sentiment_Deployment_Streamlit.gif)
 
 **CUARTA SEMANA**
 En esta semana se modificaron algunos aspectos del dashboard y se perfeccionaron los modelos de predicción. 
