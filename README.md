@@ -207,6 +207,27 @@ In addition, we present this preliminary data DER:
 
 ![See DER in separate file](https://github.com/Astroprogramm/PF-E-commerce-Olist/blob/master/Entregables/Sprint_1/Olist%20DER%20Actual.png)
 
+
+**SECOND WEEK:**
+
+To continue with the next phase of the project we started with an ETL process where null values were imputed with a function, data types were changed in the columns; Once these data were cleaned, a division of these data was made with train test split where 70% of the data were used as initial load and 30% as incremental load; the creation of the data warehouse was performed which was automated with triggers (triggers) which insert the new records into an audit table that is used to validate the correct insertions of these data into the tables. Finally, as final steps, incremental loading was performed in the data warehouse which was already in the cloud and an automation of the entire ETL process was performed with Airflow through a docker environment locally.
+
+![ETL process](https://github.com/Astroprogramm/PF-E-commerce-Olist/blob/master/ETL/ETL_Process.png)
+![DER](https://github.com/Astroprogramm/PF-E-commerce-Olist/blob/master/Entregables/Sprint_2/DERFinal.png)
+
+**THIRD WEEK**
+
+To conclude the last phases of the project we started with the construction of dashboards on which we support our objective and the KPIs. Three prediction models were made that support the project’s objective, which are:
+
+* Model of analysis of feelings in the messages of reviews which is automated with Streamlit, this model helps us to identify the feeling of customers with purchases at the time they make a review
+* Future sales prediction model with this model predict the monthly future sales that Olist may have, this model is implemented to set goals in the company’s sales.
+* Product recommendation model, which based on the product purchased by the customer preselects products of the same category that the customer may be interested in
+
+![](https://github.com/Astroprogramm/PF-E-commerce-Olist/blob/master/Entregables/Sprint_3/Machine_Learning_Models/Sentiment_Prediction_Streamlit/ML_Sentiment_Deployment_Streamlit.gif)
+
+**FOURTH WEEK**
+This week some aspects of the dashboard were modified and prediction models were perfected. 
+
 ### <div align="center"> RECOMMENDATIONS </div >
 
 * **Increase the average ticket,** the current global value is $137.75 and 71% of orders are below the average ticket value.
@@ -231,28 +252,6 @@ In addition, we present this preliminary data DER:
   * Use the sentiment analysis model in reviews messages to identify negative words and address those situations.
 
 * **Implement Marketing Strategies in other languages:** English and French
-
-
-
-**SECOND WEEK:**
-
-To continue with the next phase of the project we started with an ETL process where null values were imputed with a function, data types were changed in the columns; Once these data were cleaned, a division of these data was made with train test split where 70% of the data were used as initial load and 30% as incremental load; the creation of the data warehouse was performed which was automated with triggers (triggers) which insert the new records into an audit table that is used to validate the correct insertions of these data into the tables. Finally, as final steps, incremental loading was performed in the data warehouse which was already in the cloud and an automation of the entire ETL process was performed with Airflow through a docker environment locally.
-
-![ETL process](https://github.com/Astroprogramm/PF-E-commerce-Olist/blob/master/ETL/ETL_Process.png)
-![DER](https://github.com/Astroprogramm/PF-E-commerce-Olist/blob/master/Entregables/Sprint_2/DERFinal.png)
-
-**THIRD WEEK**
-
-To conclude the last phases of the project we started with the construction of dashboards on which we support our objective and the KPIs. Three prediction models were made that support the project’s objective, which are:
-
-* Model of analysis of feelings in the messages of reviews which is automated with Streamlit, this model helps us to identify the feeling of customers with purchases at the time they make a review
-* Future sales prediction model with this model predict the monthly future sales that Olist may have, this model is implemented to set goals in the company’s sales.
-* Product recommendation model, which based on the product purchased by the customer preselects products of the same category that the customer may be interested in
-
-![](https://github.com/Astroprogramm/PF-E-commerce-Olist/blob/master/Entregables/Sprint_3/Machine_Learning_Models/Sentiment_Prediction_Streamlit/ML_Sentiment_Deployment_Streamlit.gif)
-
-**FOURTH WEEK**
-This week some aspects of the dashboard were modified and prediction models were perfected. 
 
 
 ## <mark>Disclaimer</mark>
